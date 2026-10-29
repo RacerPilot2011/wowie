@@ -2,8 +2,8 @@ from pathlib import Path
 
 DIRECTORY = r"E:\Coding\wowie\omg"
 
-OLD_TEXT = "RacerPilot2011/wowigimchangingeverything"
-NEW_TEXT = "RacerPilot2011/wowigimchangingeverything"
+OLD_TEXT = "bubbls/UGS-file-encryption"
+NEW_TEXT = "RacerPilot2011/romsigforart"
 
 RECURSIVE = True
 
